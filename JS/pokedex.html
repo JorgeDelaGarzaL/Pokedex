@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pokedex LaunchX</title>
+    <link rel="stylesheet" href="./pokedex.css">
+</head>
+<body>
+    <img id="imagen1" src="./pokedex-stats.png">
+        <div id="grad" class="cuadrado">
+            <img src="./pokebola.jpg"class="imagen2" alt="Pokemon" id="pokeImg" width="150px">
+            <input type="text" class="position" placeholder="Introduce Pokemon" id="pokeName" name="pokeName">
+            <button onclick="fetchPokemon()" class="button2">Cambiar Pokemon</button>
+        </div>
+    <div id="grad" class="cuadrado2">
+        <div class="name"></div>
+        <div class="hp"></div>
+        <div class="atk"></div>
+        <div class="def"></div>
+        <div class="spatk"></div>
+        <div class="spdef"></div>
+        <div class="speed"></div>
+        <div class="n_hp"></div>
+        <div class="n_atk"></div>
+        <div class="n_def"></div>
+        <div class="n_spatk"></div>
+        <div class="n_spdef"></div>
+        <div class="n_speed"></div>
+    </div>
+</body>
+<footer>
+    <script src="./pokedex.js"></script>
+</footer>
+</html>

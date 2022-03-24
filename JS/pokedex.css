@@ -1,0 +1,192 @@
+#imagen1 { 
+    position: relative;
+      top: 200px;
+      left: 30%;
+      left: center;
+      width: 800px;
+      height: 600px;
+  } 
+  
+.imagen2 { 
+    position: relative;
+      top: 17px;
+      left: 7%;
+      width: 270px;
+      height: 240px;
+  } 
+  
+
+  body {
+    background-color: green; 
+  }
+
+.cuadrado {
+    position: relative;
+    top: -278px;
+    left: 32.4%;
+    width: 305px;
+    height: 275px;
+    background: white;
+    border-radius: 10px;
+}
+
+.cuadrado2 {
+    position: relative;
+    top: -550px;
+    left: 54%;
+    width: 305px;
+    height: 400px;
+    background: white;
+    border-radius: 10px;
+}
+
+.button2 {
+    background-color: rgb(53, 69, 206); 
+    height: 25px;
+    border: none;
+    color: white;
+    padding: 3px 7px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10px;
+    margin: 4px 2px;
+    cursor: pointer;
+    position: relative;
+    left: 77%;
+    top: 13px;
+    border-radius: 15px;
+    -webkit-transition-duration: 0.4s; 
+    transition-duration: 0.4s;
+  }
+  
+  .button2:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+  }
+
+
+  .position { 
+    position: relative;
+      top: 136px;
+      left: -6%;
+      width: 270px;
+      height: 45px;
+      border-radius: 10px;
+      background-color: yellow;
+  } 
+
+  .name {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 28px;
+    color:black;
+    position: relative;
+    left: 25%;
+  }
+
+  .hp {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color:black;
+    position: relative;
+    left: 45%;
+    top: 5%;
+  }
+
+  .atk {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color:black;
+    position: relative;
+    left: 45%;
+    top: 10%;
+  }
+
+  .def {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color:black;
+    position: relative;
+    left: 45%;
+    top: 15%;
+  }
+
+  .spatk {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color:black;
+    position: relative;
+    left: 45%;
+    top: 20%;
+  }
+
+  .spdef {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color:black;
+    position: relative;
+    left: 45%;
+    top: 25%;
+  }
+
+  .speed {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color:black;
+    position: relative;
+    left: 45%;
+    top: 30%;
+  }
+  
+  .n_hp {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color:black;
+    position: relative;
+    left: 25%;
+    top: -27%;
+  }
+
+  .n_atk {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color:black;
+    position: relative;
+    left: 17%;
+    top: -22%;
+  }
+
+  .n_def {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color:black;
+    position: relative;
+    left: 12%;
+    top: -17%;
+  }
+
+  .n_spatk {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color:black;
+    position: relative;
+    left: 0%;
+    top: -12%;
+  }
+
+  .n_spdef {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color:black;
+    position: relative;
+    left: 0%;
+    top: -7%;
+  }
+
+  .n_speed {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color:black;
+    position: relative;
+    left: 17%;
+    top: -2%;
+  }
